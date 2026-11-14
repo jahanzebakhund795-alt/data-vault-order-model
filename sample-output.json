@@ -1,0 +1,28 @@
+{
+  "customer_hubs": {
+    "7873576fe8622474e7a028ebc6ac067ab397f712392e96d2a39d707352417cb1": "c1"
+  },
+  "links": {
+    "42d86c935f620ca4cc736befca7fd7ae2cf3ff1dae859ae66937f8de70ad5df5": {
+      "customer_hk": "7873576fe8622474e7a028ebc6ac067ab397f712392e96d2a39d707352417cb1",
+      "order_hk": "a7eb4637ace94230b19876fc8bcf8c7c6f7079eec0da1dbbfb2f35572b419182"
+    }
+  },
+  "order_hubs": {
+    "a7eb4637ace94230b19876fc8bcf8c7c6f7079eec0da1dbbfb2f35572b419182": "o1"
+  },
+  "satellites": [
+    {
+      "hashdiff": "7d5741882b9b1ab5c7027ab0ed3ea0ca66be5aefae157127048a1c3710d5492c",
+      "loaded_at": "2025-01-01",
+      "order_hk": "a7eb4637ace94230b19876fc8bcf8c7c6f7079eec0da1dbbfb2f35572b419182",
+      "status": "new"
+    },
+    {
+      "hashdiff": "19c4d20e731efb21f8322a3e70cb1787264c6b04b6f4258a0f23d95ce1afdb81",
+      "loaded_at": "2025-01-02",
+      "order_hk": "a7eb4637ace94230b19876fc8bcf8c7c6f7079eec0da1dbbfb2f35572b419182",
+      "status": "shipped"
+    }
+  ]
+}

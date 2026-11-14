@@ -1,0 +1,22 @@
+{
+  "records": [
+    {
+      "customer": "c1",
+      "order": "o1",
+      "status": "new",
+      "loaded_at": "2025-01-01"
+    },
+    {
+      "customer": "c1",
+      "order": "o1",
+      "status": "shipped",
+      "loaded_at": "2025-01-02"
+    },
+    {
+      "customer": "c1",
+      "order": "o1",
+      "status": "shipped",
+      "loaded_at": "2025-01-03"
+    }
+  ]
+}
